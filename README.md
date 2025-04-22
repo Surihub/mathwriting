@@ -1,19 +1,10 @@
-# 🎈 Blank app template
+# 🧮 수학 문제 피드백 시스템
 
-A simple Streamlit app template for you to modify!
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mathwriting.streamlit.app/)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+- **🔗 앱 링크:** [앱 실행하기](https://your-app-domain.com)
+- **📝 설명:**
+  - 고등학생의 **서술형 수학 풀이** (📸 이미지 및 ✍️ 텍스트)를 업로드하고,
+  - 🤖 **OpenAI GPT-4o 비전** 기능으로 풀이를 분석한 뒤,
+  - ✅ **채점하기 쉬운** 형태로 설명해 주는 Streamlit 앱입니다.
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
